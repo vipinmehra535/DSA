@@ -30,6 +30,7 @@ int main()
         cout << "Element not found" << endl;
     }
     return 0;
-//Time Complexity: O(log n)
+}
+// Time Complexity: O(log n)
 
-//Space Complexity: O(log n) due to recursion stack
+// Space Complexity: O(log n) due to recursion stack
